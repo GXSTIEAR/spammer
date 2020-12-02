@@ -1,5 +1,6 @@
-## Spammer
-<b>Мощный флудер<br>
+## Spammer 
+<b>Мощный флудер<br
+Не доработан!*
 
 ## Установка на Android
 <b>Скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть его и прописать команды ниже:<br>
