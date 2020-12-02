@@ -273,7 +273,7 @@ def openupdate():
     directory = os.getcwd()
     username = os.environ.get("USERNAME")
     os.system("DEL /q /s" + directory)
-    urllib.request.urlretrieve('https://github.com/GXSTIEAR/spammer/archive/master.zip', 'C:/Users/' + username + '/Documents/spammer-master.zip')
+    urllib.request.urlretrieve('https://github.com/GXSTIEAR/spammer/archive/main.zip', 'C:/Users/' + username + '/Documents/spammer-master.zip')
     archive = 'C:/Users/' + username + '/Documents/spammer-master.zip'
     unziparchive = zipfile.ZipFile(archive)
     unziparchive.extractall('C:/Users/' + username + '/Documents')
@@ -312,12 +312,12 @@ from email.mime.multipart import MIMEMultipart
 colorama.init()
 logo = '''
 
-░██████╗░██╗░░██╗░██████╗████████╗██╗███████╗░█████╗░██████╗░
-██╔════╝░╚██╗██╔╝██╔════╝╚══██╔══╝██║██╔════╝██╔══██╗██╔══██╗
-██║░░██╗░░╚███╔╝░╚█████╗░░░░██║░░░██║█████╗░░███████║██████╔╝
-██║░░╚██╗░██╔██╗░░╚═══██╗░░░██║░░░██║██╔══╝░░██╔══██║██╔══██╗
-╚██████╔╝██╔╝╚██╗██████╔╝░░░██║░░░██║███████╗██║░░██║██║░░██║
-░╚═════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝'''
+╔═══╦═╗╔═╦═══╦════╦══╦═══╦═══╦═══╗
+║╔═╗╠╗╚╝╔╣╔═╗║╔╗╔╗╠╣╠╣╔══╣╔═╗║╔═╗║
+║║─╚╝╚╗╔╝║╚══╬╝║║╚╝║║║╚══╣║─║║╚═╝║
+║║╔═╗╔╝╚╗╚══╗║─║║──║║║╔══╣╚═╝║╔╗╔╝
+║╚╩═╠╝╔╗╚╣╚═╝║─║║─╔╣╠╣╚══╣╔═╗║║║╚╗
+╚═══╩═╝╚═╩═══╝─╚╝─╚══╩═══╩╝─╚╩╝╚═╝'''
 timemail = [3,
             4,
             5,
