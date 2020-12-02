@@ -1,4 +1,4 @@
-# Spammer
+## Spammer
 <b>Мощный флудер<br>
 
 ## Установка на Android
@@ -7,14 +7,14 @@
 • <code>apt update && apt upgrade -y</code><br>
 • <code>pkg install python</code><br>
 • <code>pkg install git</code><br>
-• <code>git clone https://github.com/Arstas/spammer</code><br>
+• <code>git clone https://github.com/GXSTIEAR/spammer</code><br>
 • <code>cd spammer</code><br>
 • <code>python3 install.py</code><br>
 
 ## Установка на Windows
 
 <b>Скачать и установить <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Python3 новой версии</a><br>
-<b>ВАЖНО!!! ПРИ УСТАНОВКЕ ПОСТАВЬТЕ ГАЛОЧКУ НА ПУНКТЕ "Add Python 3.8 to PATH"<b
+<b>Важно!!! При установки поставьте галку на пункте "Add Python 3.8 to PATH"<br>
 <b>Запустите файл install.py<br>
 <b><br>
 ## Запуск
